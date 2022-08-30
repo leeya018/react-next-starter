@@ -1,0 +1,20 @@
+{
+  "trips": [
+    {
+      "title": "hola",
+      "price": "$33",
+      "location": "israel"
+    },
+    {
+      "title": "dstdts",
+      "price": "$43",
+      "location": "turkey"
+    },
+    {
+      "title": "data",
+      "price": "$53",
+      "location": "israel"
+    }
+  ],
+  "posts": []
+}
